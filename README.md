@@ -7,5 +7,3 @@ The graph shows the learning processes in the form of an estimate of the losses 
 There was a sharp increase in losses due to the predominant formation of the discriminator (it learns to distinguish between real and fake ones images). 
 Then, after learning a little, the gradients for the generator became larger than the classification gradients and the loss of the generator decreased (the images on its result became more realistic). 
 In the end, the neural network learned to create sufficiently realistic images of "5" (output).
-
-wellnetstudio@gmail.com
